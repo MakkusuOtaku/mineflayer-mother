@@ -22,4 +22,6 @@ bot.loadPlugin(mother);
 - Auto eat
 - Sneak on cliffs
 - Auto extinguish
+- Fix stuff
+- Add bed MLG
 - Finish Readme
